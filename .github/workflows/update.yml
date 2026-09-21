@@ -2,12 +2,8 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    # Taiwan 06:00 = UTC 22:00 (previous day)
     - cron: "0 22 * * *"
-
-    # Taiwan 18:00 = UTC 10:00
     - cron: "0 10 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -21,99 +17,33 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download latest playlist
-        shell: bash
+      - name: Download playlist
         run: |
-          set -euo pipefail
-
-          URL="https://iptv.yang-1989.xyz/playlist.m3u"
-          TEMP_FILE="playlist.m3u.tmp"
-
-          echo "Downloading latest playlist..."
-          echo "Source: $URL"
-
-          rm -f "$TEMP_FILE"
-
-          curl \
-            --fail \
-            --location \
-            --silent \
-            --show-error \
-            --retry 3 \
-            --retry-delay 5 \
-            --connect-timeout 30 \
-            --max-time 300 \
-            --max-filesize 100M \
-            "$URL" \
-            -o "$TEMP_FILE"
-
-          echo "Download completed."
+          curl -L --fail --retry 3 \
+            "https://iptv.yang-1989.xyz/playlist.m3u" \
+            -o playlist.m3u.new
 
       - name: Validate playlist
-        shell: bash
         run: |
-          set -euo pipefail
-
-          FILE="playlist.m3u.tmp"
-
-          if [ ! -s "$FILE" ]; then
-            echo "ERROR: Downloaded file is empty."
-            rm -f "$FILE"
-            exit 1
-          fi
-
-          if ! grep -q "^#EXTM3U" "$FILE"; then
-            echo "ERROR: Downloaded file does not appear to be a valid M3U playlist."
-            echo "First 20 lines:"
-            head -n 20 "$FILE"
-            rm -f "$FILE"
-            exit 1
-          fi
-
-          CHANNEL_COUNT=$(grep -c "^#EXTINF" "$FILE" || true)
-
-          echo "Playlist validation passed."
-          echo "Channel entries: $CHANNEL_COUNT"
-
-          if [ "$CHANNEL_COUNT" -lt 1 ]; then
-            echo "ERROR: No channel entries found."
-            rm -f "$FILE"
-            exit 1
-          fi
+          test -s playlist.m3u.new
+          grep -q "^#EXTM3U" playlist.m3u.new
+          grep -q "^#EXTINF" playlist.m3u.new
 
       - name: Replace playlist
-        shell: bash
         run: |
-          set -euo pipefail
-          mv playlist.m3u.tmp playlist.m3u
-          echo "playlist.m3u has been updated."
+          mv playlist.m3u.new playlist.m3u
+          ls -lh playlist.m3u
 
-      - name: Check for changes
-        id: changes
-        shell: bash
+      - name: Commit and push
         run: |
-          if git diff --quiet -- playlist.m3u; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "Playlist content has not changed."
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "Playlist content has changed."
-          fi
-
-      - name: Commit and push updated playlist
-        if: steps.changes.outputs.changed == 'true'
-        shell: bash
-        run: |
-          set -euo pipefail
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add playlist.m3u
-          git commit -m "Update playlist"
-          git push
 
-      - name: No changes
-        if: steps.changes.outputs.changed == 'false'
-        run: |
-          echo "No changes detected. Nothing to commit."
+          if git diff --cached --quiet; then
+            echo "Playlist has not changed."
+          else
+            git commit -m "Update M3U playlist"
+            git push
+          fi
