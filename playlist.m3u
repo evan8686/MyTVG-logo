@@ -173,18 +173,20 @@ https://iptv.yang-1989.xyz/hkgf/z2uknu.m3u8
 https://iptv.yang-1989.xyz/hkgf/kymufg.m3u8
 #EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://iptv.yang-1989.xyz/logo/RTHK33.webp" group-title="•香港「Relay」",RTHK 33「Relay」
 https://iptv.yang-1989.xyz/hkgf/nyckha.m3u8
-#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門衛星.webp" group-title="•香港「Relay」",澳門衛星「Relay」
-https://iptv.yang-1989.xyz/hkgf/atp7vm.m3u8
-#EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門葡萄牙.webp" group-title="•香港「Relay」",澳門葡文「Relay」
-https://iptv.yang-1989.xyz/hkgf/btpdve.m3u8
-#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://iptv.yang-1989.xyz/logo/澳視澳門.webp" group-title="•香港「Relay」",澳視澳門「Relay」
-https://iptv.yang-1989.xyz/hkgf/usqybp.m3u8
-#EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門資訊.webp" group-title="•香港「Relay」",澳門資訊「Relay」
-https://iptv.yang-1989.xyz/hkgf/tq555g.m3u8
-#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門體育.webp" group-title="•香港「Relay」",澳門體育「Relay」
-https://iptv.yang-1989.xyz/hkgf/x2dxrv.m3u8
-#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門綜藝.webp" group-title="•香港「Relay」",澳門綜藝「Relay」
-https://iptv.yang-1989.xyz/hkgf/m39dzd.m3u8
+#EXTINF:-1 tvg-id="澳門蓮花衛視" tvg-name="澳門蓮花衛視" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門蓮花衛視.webp" group-title="•香港「Relay」",澳門蓮花「官方」
+https://iptv.yang-1989.xyz/ao/2wcb5g.m3u8
+#EXTINF:-1 tvg-id="澳門Macau" tvg-name="澳門Macau" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門Macau.webp" group-title="•香港「Relay」",澳門Macau「官方」
+https://iptv.yang-1989.xyz/ao/atp7vm.m3u8
+#EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://iptv.yang-1989.xyz/logo/澳視澳門.webp" group-title="•香港「Relay」",澳視澳門「官方」
+https://iptv.yang-1989.xyz/ao/usqybp.m3u8
+#EXTINF:-1 tvg-id="澳視葡文" tvg-name="澳視葡文" tvg-logo="https://iptv.yang-1989.xyz/logo/澳視葡文.webp" group-title="•香港「Relay」",澳視葡文「官方」
+https://iptv.yang-1989.xyz/ao/btpdve.m3u8
+#EXTINF:-1 tvg-id="澳門資訊" tvg-name="澳門資訊" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門資訊.webp" group-title="•香港「Relay」",澳門資訊「官方」
+https://iptv.yang-1989.xyz/ao/tq555g.m3u8
+#EXTINF:-1 tvg-id="澳門綜藝" tvg-name="澳門綜藝" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門綜藝.webp" group-title="•香港「Relay」",澳門綜藝「官方」
+https://iptv.yang-1989.xyz/ao/m39dzd.m3u8
+#EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門體育.webp" group-title="•香港「Relay」",澳門體育「官方」
+https://iptv.yang-1989.xyz/ao/x2dxrv.m3u8
 #EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來日本台.webp" group-title="•台灣「Relay」",緯來日本「Relay」
 https://iptv.yang-1989.xyz/tw/m7wc8a.m3u8
 #EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來體育台.webp" group-title="•台灣「Relay」",緯來體育「Relay」
@@ -327,9 +329,9 @@ https://cdn.qd.je/163189/jade
 https://cdn.qd.je/163189/hlfct
 #EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•港澳台「Juli」",华丽翡翠台「新加坡」
 https://cdn.qd.je/163189/jade2
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB.webp" group-title="•港澳台「Juli」",TVB1
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB1.webp" group-title="•港澳台「Juli」",TVB1
 https://cdn.qd.je/163189/tvb1
-#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB.webp" group-title="•港澳台「Juli」",TVBJ1
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://iptv.yang-1989.xyz/logo/TVBJ1.webp" group-title="•港澳台「Juli」",TVBJ1
 https://cdn.qd.je/163189/j1
 #EXTINF:-1 tvg-id="TVB Drama" tvg-name="TVB Drama" tvg-logo="https://iptv.yang-1989.xyz/logo/TVB%20Drama.webp" group-title="•港澳台「Juli」",TVB Drama
 https://cdn.qd.je/163189/tvbd
@@ -343,7 +345,7 @@ https://cdn.qd.je/163189/xinghe
 https://cdn.qd.je/163189/tvbxh2
 #EXTINF:-1 tvg-id="澳視澳門" tvg-name="澳視澳門" tvg-logo="https://iptv.yang-1989.xyz/logo/澳視澳門.webp" group-title="•港澳台「Juli」",澳視澳門
 https://cdn.qd.je/163189/asam
-#EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門衛星.webp" group-title="•港澳台「Juli」",澳門衛星
+#EXTINF:-1 tvg-id="澳門Macau" tvg-name="澳門Macau" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門Macau.webp" group-title="•港澳台「Juli」",澳門Macau
 https://cdn.qd.je/163189/as
 #EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門體育.webp" group-title="•港澳台「Juli」",澳門體育
 https://cdn.qd.je/163189/amty
@@ -649,27 +651,3 @@ https://migu.yang-1989.xyz/sprt/zx76u4.m3u8
 https://migu.yang-1989.xyz/sprt/uc2ptr.m3u8
 #EXTINF:-1 tvg-id="TSN 5" tvg-name="TSN 5" tvg-logo="https://iptv.yang-1989.xyz/logo/TSN%205.webp" group-title="•體育「Relay」",TSN 5「Relay」
 https://migu.yang-1989.xyz/sprt/fxavxh.m3u8
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://iptv.yang-1989.xyz/logo/BBC%20Earth.webp" group-title="•綜合「Relay」",BBC Earth「Relay」
-https://migu.yang-1989.xyz/comp/ysq4pc.m3u8
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://iptv.yang-1989.xyz/logo/BBC%20Lifestyle.webp" group-title="•綜合「Relay」",BBC Lifestyle「Relay」
-https://migu.yang-1989.xyz/comp/668qpk.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://iptv.yang-1989.xyz/logo/Discovery.webp" group-title="•綜合「Relay」",Discovery「Relay」
-https://migu.yang-1989.xyz/comp/eqnk4n.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://iptv.yang-1989.xyz/logo/HBO%20HD.webp" group-title="•綜合「Relay」",HBO「Relay」
-https://migu.yang-1989.xyz/comp/dzd4p8.m3u8
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="https://iptv.yang-1989.xyz/logo/HBO%20Hits.webp" group-title="•綜合「Relay」",HBO Hits「Relay」
-https://migu.yang-1989.xyz/comp/c5yrqp.m3u8
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://iptv.yang-1989.xyz/logo/HBO%20Family.webp" group-title="•綜合「Relay」",HBO Family「Relay」
-https://migu.yang-1989.xyz/comp/d8453t.m3u8
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://iptv.yang-1989.xyz/logo/HBO%20Signature.webp" group-title="•綜合「Relay」",HBO Signature「Relay」
-https://migu.yang-1989.xyz/comp/bsxnqq.m3u8
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-logo="https://iptv.yang-1989.xyz/logo/Channel%205.webp" group-title="•綜合「Relay」",Channel 5「Relay」
-https://migu.yang-1989.xyz/comp/96cu5s.m3u8
-#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-logo="https://iptv.yang-1989.xyz/logo/Channel%208.webp" group-title="•綜合「Relay」",Channel 8「Relay」
-https://migu.yang-1989.xyz/comp/7tqtn8.m3u8
-#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://iptv.yang-1989.xyz/logo/Channel%20U.webp" group-title="•綜合「Relay」",Channel U「Relay」
-https://migu.yang-1989.xyz/comp/f6q87c.m3u8
-#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://iptv.yang-1989.xyz/logo/%E4%B8%AD%E5%A4%A9%E4%BA%9E%E6%B4%B2%E5%8F%B0.webp" group-title="•綜合「Relay」",中天亞洲「Relay」
-https://migu.yang-1989.xyz/comp/j99nhj.m3u8
-#EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVB Jade" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•綜合「Relay」",TVB Jade「Relay」
-https://migu.yang-1989.xyz/comp/d8xkk7.m3u8
