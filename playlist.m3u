@@ -120,18 +120,22 @@ https://migu.yang-1989.xyz/ysp/g9vyw3.m3u8
 https://migu.yang-1989.xyz/ysp/82yxxw.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/新疆卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",新疆卫视「Relay」
 https://migu.yang-1989.xyz/ysp/qefhzd.m3u8
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://migu.yang-1989.xyz/logo/第一财经.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36",第一财经「72小时回看」
-https://migu.yang-1989.xyz/Cn/a52gmt.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://migu.yang-1989.xyz/logo/五星体育.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36",五星体育「72小时回看」
-https://migu.yang-1989.xyz/Cn/m4w4x7.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://migu.yang-1989.xyz/logo/东方卫视4K.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36",东方卫视「72小时回看」
-https://migu.yang-1989.xyz/Cn/ahe5u9.m3u8
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://migu.yang-1989.xyz/logo/上海新闻综合.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36",上海新闻综合「72小时回看」
-https://migu.yang-1989.xyz/Cn/ktbhsk.m3u8
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://migu.yang-1989.xyz/logo/上海都市频道.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36",上海都市频道「72小时回看」
-https://migu.yang-1989.xyz/Cn/u9rxa4.m3u8
-#EXTINF:-1 tvg-id="魔都眼" tvg-name="魔都眼" tvg-logo="https://migu.yang-1989.xyz/logo/魔都眼.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" http-user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36",魔都眼「72小时回看」
-https://migu.yang-1989.xyz/Cn/xtd4nj.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://iptv.yang-1989.xyz/logo/五星体育.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",五星体育「72小时回看」
+https://migu.yang-1989.xyz/sh/m4w4x7.m3u8
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://iptv.yang-1989.xyz/logo/第一财经.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",第一财经「72小时回看」
+https://migu.yang-1989.xyz/sh/a52gmt.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/东方卫视4K.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",东方卫视「72小时回看」
+https://migu.yang-1989.xyz/sh/ahe5u9.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://iptv.yang-1989.xyz/logo/哈哈炫动.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",哈哈炫动「72小时回看」
+https://migu.yang-1989.xyz/sh/kfdd56.m3u8
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://iptv.yang-1989.xyz/logo/上海新闻综合.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",上海新闻综合「72小时回看」
+https://migu.yang-1989.xyz/sh/ktbhsk.m3u8
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://iptv.yang-1989.xyz/logo/上海都市频道.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",上海都市频道「72小时回看」
+https://migu.yang-1989.xyz/sh/u9rxa4.m3u8
+#EXTINF:-1 tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://iptv.yang-1989.xyz/logo/上海新纪实.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",上海新纪实「72小时回看」
+https://migu.yang-1989.xyz/sh/82998s.m3u8
+#EXTINF:-1 tvg-id="魔都眼" tvg-name="魔都眼" tvg-logo="https://iptv.yang-1989.xyz/logo/魔都眼.webp" group-title="•中國「Relay」",魔都眼「官方」
+https://migu.yang-1989.xyz/sh/xtd4nj.m3u8
 #EXTINF:-1 tvg-id="雷霆881" tvg-name="雷霆881" tvg-logo="https://iptv.yang-1989.xyz/logo/雷霆881.webp" group-title="•香港「Relay」",雷霆881「電台」
 https://iptv.yang-1989.xyz/hkg/r6um2x.m3u8
 #EXTINF:-1 tvg-id="叱咤903" tvg-name="叱咤903" tvg-logo="https://iptv.yang-1989.xyz/logo/叱咤903.webp" group-title="•香港「Relay」",叱咤903「電台」
@@ -199,10 +203,10 @@ https://iptv.yang-1989.xyz/ao/wwr4z6.m3u8
 https://iptv.yang-1989.xyz/ao/hwp8sz.m3u8
 #EXTINF:-1 tvg-id="澳門體育" tvg-name="澳門體育" tvg-logo="https://iptv.yang-1989.xyz/logo/澳門體育.webp" group-title="•香港「Relay」",澳門體育「官方」
 https://iptv.yang-1989.xyz/ao/66b9ev.m3u8
-#EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來日本台.webp" group-title="•台灣「Relay」",緯來日本「Relay」
-https://iptv.yang-1989.xyz/tw/4fmuh9.m3u8
 #EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來體育台.webp" group-title="•台灣「Relay」",緯來體育「Relay」
 https://iptv.yang-1989.xyz/tw/jkykrw.m3u8
+#EXTINF:-1 tvg-id="緯來日本台" tvg-name="緯來日本台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來日本台.webp" group-title="•台灣「Relay」",緯來日本「Relay」
+https://iptv.yang-1989.xyz/tw/4fmuh9.m3u8
 #EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來電影台.webp" group-title="•台灣「Relay」",緯來電影「Relay」
 https://iptv.yang-1989.xyz/tw/96zh7u.m3u8
 #EXTINF:-1 tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://iptv.yang-1989.xyz/logo/緯來綜合台.webp" group-title="•台灣「Relay」",緯來綜合「Relay」
