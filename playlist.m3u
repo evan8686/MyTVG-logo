@@ -6,33 +6,33 @@
 https://epg.yang-1989.xyz/v/302.mp4
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.yang-1989.xyz/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2026-8-21 #佛系維護...
 https://epg.yang-1989.xyz/v/301.mp4
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV1.webp" group-title="•中國「Relay」",CCTV 1 综合「Relay」
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV1.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 1 综合「Relay」
 https://migu.yang-1989.xyz/ysp/jxqthc.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV2.webp" group-title="•中國「Relay」",CCTV 2 财经「Relay」
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV2.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 2 财经「Relay」
 https://migu.yang-1989.xyz/ysp/2qg9nz.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV3.webp" group-title="•中國「Relay」",CCTV 3 综艺「Relay」
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV3.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 3 综艺「Relay」
 https://migu.yang-1989.xyz/ysp/m2jday.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV4.webp" group-title="•中國「Relay」",CCTV 4 中文国际「Relay」
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV4.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 4 中文国际「Relay」
 https://migu.yang-1989.xyz/ysp/3v73k4.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp" group-title="•中國「Relay」",CCTV 5 体育「Relay」
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 5 体育「Relay」
 https://migu.yang-1989.xyz/ysp/duyk4m.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5%2B.webp" group-title="•中國「Relay」",CCTV 5+ 体育赛事「Relay」
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV5%2B.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 5+ 体育赛事「Relay」
 https://migu.yang-1989.xyz/ysp/qcnzf3.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV6.webp" group-title="•中國「Relay」",CCTV 6 电影「Relay」
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV6.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 6 电影「Relay」
 https://migu.yang-1989.xyz/ysp/vayeb8.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV7.webp" group-title="•中國「Relay」",CCTV 7 国防军事「Relay」
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV7.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 7 国防军事「Relay」
 https://migu.yang-1989.xyz/ysp/27pnz8.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV8.webp" group-title="•中國「Relay」",CCTV 8 电视剧「Relay」
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV8.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 8 电视剧「Relay」
 https://migu.yang-1989.xyz/ysp/2pdss9.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV9.webp" group-title="•中國「Relay」",CCTV 9 纪录「Relay」
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV9.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 9 纪录「Relay」
 https://migu.yang-1989.xyz/ysp/2s6gu4.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV10.webp" group-title="•中國「Relay」",CCTV 10 科教「Relay」
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV10.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 10 科教「Relay」
 https://migu.yang-1989.xyz/ysp/z52yb2.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV11.webp" group-title="•中國「Relay」",CCTV 11 戏曲「Relay」
 https://migu.yang-1989.xyz/ysp/eqpa5q.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV12.webp" group-title="•中國「Relay」",CCTV 12 社会与法「Relay」
 https://migu.yang-1989.xyz/ysp/sw3vft.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="•中國「Relay」",CCTV 13 新闻「Relay」
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV13.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 13 新闻「Relay」
 https://migu.yang-1989.xyz/ysp/u669uk.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV14.webp" group-title="•中國「Relay」",CCTV 14 少儿「Relay」
 https://migu.yang-1989.xyz/ysp/8j6vez.m3u8
@@ -44,81 +44,81 @@ https://migu.yang-1989.xyz/ysp/zmj85x.m3u8
 https://migu.yang-1989.xyz/ysp/9rg4bz.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV4K.webp" group-title="•中國「Relay」",CCTV 4K 超高清「Relay」
 https://migu.yang-1989.xyz/ysp/vuu2ws.m3u8
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV8K.webp" group-title="•中國「Relay」",CCTV 8K 超高清「Relay」
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV8K.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CCTV 8K 超高清「Relay」
 https://migu.yang-1989.xyz/ysp/e9eudc.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN.webp" group-title="•中國「Relay」",CGTN 英语「Relay」
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CGTN 英语「Relay」
 https://migu.yang-1989.xyz/ysp/fkx79x.m3u8
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN法语.webp" group-title="•中國「Relay」",CGTN 法语「Relay」
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN法语.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CGTN 法语「Relay」
 https://migu.yang-1989.xyz/ysp/kaucmp.m3u8
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN俄语.webp" group-title="•中國「Relay」",CGTN 俄语「Relay」
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN俄语.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CGTN 俄语「Relay」
 https://migu.yang-1989.xyz/ysp/q2cfxx.m3u8
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN阿拉伯语.webp" group-title="•中國「Relay」",CGTN 阿拉伯语「Relay」
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN阿拉伯语.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CGTN 阿拉伯语「Relay」
 https://migu.yang-1989.xyz/ysp/bhakxx.m3u8
-#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN西班牙语.webp" group-title="•中國「Relay」",CGTN 西班牙语「Relay」
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN西班牙语.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CGTN 西班牙语「Relay」
 https://migu.yang-1989.xyz/ysp/8j6z65.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN纪录.webp" group-title="•中國「Relay」",CGTN 纪录「Relay」
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://iptv.yang-1989.xyz/logo/CGTN纪录.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",CGTN 纪录「Relay」
 https://migu.yang-1989.xyz/ysp/gam9ru.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/北京卫视.webp" group-title="•中國「Relay」",北京卫视「Relay」
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/北京卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",北京卫视「Relay」
 https://migu.yang-1989.xyz/ysp/t3eryn.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/江苏卫视.webp" group-title="•中國「Relay」",江苏卫视「Relay」
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/江苏卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",江苏卫视「Relay」
 https://migu.yang-1989.xyz/ysp/ye7x3f.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/东方卫视.webp" group-title="•中國「Relay」",东方卫视「Relay」
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/东方卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",东方卫视「Relay」
 https://migu.yang-1989.xyz/ysp/z4vcnr.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/浙江卫视.webp" group-title="•中國「Relay」",浙江卫视「Relay」
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/浙江卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",浙江卫视「Relay」
 https://migu.yang-1989.xyz/ysp/p63tb4.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/湖南卫视.webp" group-title="•中國「Relay」",湖南卫视「Relay」
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/湖南卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",湖南卫视「Relay」
 https://migu.yang-1989.xyz/ysp/vv75wg.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/湖北卫视.webp" group-title="•中國「Relay」",湖北卫视「Relay」
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/湖北卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",湖北卫视「Relay」
 https://migu.yang-1989.xyz/ysp/6b8wsy.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/广东卫视.webp" group-title="•中國「Relay」",广东卫视「Relay」
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/广东卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",广东卫视「Relay」
 https://migu.yang-1989.xyz/ysp/2ue4vt.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/广西卫视.webp" group-title="•中國「Relay」",广西卫视「Relay」
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/广西卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",广西卫视「Relay」
 https://migu.yang-1989.xyz/ysp/whvbbz.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/黑龙江卫视.webp" group-title="•中國「Relay」",黑龙江卫视「Relay」
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/黑龙江卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",黑龙江卫视「Relay」
 https://migu.yang-1989.xyz/ysp/xcq6kt.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/海南卫视.webp" group-title="•中國「Relay」",海南卫视「Relay」
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/海南卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",海南卫视「Relay」
 https://migu.yang-1989.xyz/ysp/tancb2.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/重庆卫视.webp" group-title="•中國「Relay」",重庆卫视「Relay」
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/重庆卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",重庆卫视「Relay」
 https://migu.yang-1989.xyz/ysp/j8694f.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/深圳卫视.webp" group-title="•中國「Relay」",深圳卫视「Relay」
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/深圳卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",深圳卫视「Relay」
 https://migu.yang-1989.xyz/ysp/y7mf9m.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/四川卫视.webp" group-title="•中國「Relay」",四川卫视「Relay」
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/四川卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",四川卫视「Relay」
 https://migu.yang-1989.xyz/ysp/eemjht.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/河南卫视.webp" group-title="•中國「Relay」",河南卫视「Relay」
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/河南卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",河南卫视「Relay」
 https://migu.yang-1989.xyz/ysp/a6th5v.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/东南卫视.webp" group-title="•中國「Relay」",东南卫视「Relay」
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/东南卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",东南卫视「Relay」
 https://migu.yang-1989.xyz/ysp/kkvhdv.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/贵州卫视.webp" group-title="•中國「Relay」",贵州卫视「Relay」
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/贵州卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",贵州卫视「Relay」
 https://migu.yang-1989.xyz/ysp/abef2a.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/江西卫视.webp" group-title="•中國「Relay」",江西卫视「Relay」
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/江西卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",江西卫视「Relay」
 https://migu.yang-1989.xyz/ysp/27h3au.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/辽宁卫视.webp" group-title="•中國「Relay」",辽宁卫视「Relay」
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/辽宁卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",辽宁卫视「Relay」
 https://migu.yang-1989.xyz/ysp/76jm8f.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/安徽卫视.webp" group-title="•中國「Relay」",安徽卫视「Relay」
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/安徽卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",安徽卫视「Relay」
 https://migu.yang-1989.xyz/ysp/jw39r5.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/河北卫视.webp" group-title="•中國「Relay」",河北卫视「Relay」
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/河北卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",河北卫视「Relay」
 https://migu.yang-1989.xyz/ysp/gnx6f3.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/山东卫视.webp" group-title="•中國「Relay」",山东卫视「Relay」
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/山东卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",山东卫视「Relay」
 https://migu.yang-1989.xyz/ysp/4fnyqn.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/天津卫视.webp" group-title="•中國「Relay」",天津卫视「Relay」
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/天津卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",天津卫视「Relay」
 https://migu.yang-1989.xyz/ysp/wegfzw.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/吉林卫视.webp" group-title="•中國「Relay」",吉林卫视「Relay」
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/吉林卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",吉林卫视「Relay」
 https://migu.yang-1989.xyz/ysp/j8uz33.m3u8
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/陕西卫视.webp" group-title="•中國「Relay」",陕西卫视「Relay」
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/陕西卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",陕西卫视「Relay」
 https://migu.yang-1989.xyz/ysp/yz4mf9.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/宁夏卫视.webp" group-title="•中國「Relay」",宁夏卫视「Relay」
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/宁夏卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",宁夏卫视「Relay」
 https://migu.yang-1989.xyz/ysp/9dx992.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/内蒙古卫视.webp" group-title="•中國「Relay」",内蒙古卫视「Relay」
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/内蒙古卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",内蒙古卫视「Relay」
 https://migu.yang-1989.xyz/ysp/q9cu2v.m3u8
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/云南卫视.webp" group-title="•中國「Relay」",云南卫视「Relay」
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/云南卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",云南卫视「Relay」
 https://migu.yang-1989.xyz/ysp/xnaged.m3u8
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/山西卫视.webp" group-title="•中國「Relay」",山西卫视「Relay」
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/山西卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",山西卫视「Relay」
 https://migu.yang-1989.xyz/ysp/dh4uwu.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/青海卫视.webp" group-title="•中國「Relay」",青海卫视「Relay」
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/青海卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",青海卫视「Relay」
 https://migu.yang-1989.xyz/ysp/kcdrem.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/西藏卫视.webp" group-title="•中國「Relay」",西藏卫视「Relay」
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/西藏卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",西藏卫视「Relay」
 https://migu.yang-1989.xyz/ysp/brxnrq.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/新疆卫视.webp" group-title="•中國「Relay」",新疆卫视「Relay」
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://iptv.yang-1989.xyz/logo/新疆卫视.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}",新疆卫视「Relay」
 https://migu.yang-1989.xyz/ysp/464v47.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://iptv.yang-1989.xyz/logo/五星体育.webp" group-title="•中國「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${start}-${end}",五星体育「72小时回看」
 https://migu.yang-1989.xyz/sh/utjdnd.m3u8
@@ -136,15 +136,24 @@ https://migu.yang-1989.xyz/sh/eevnrh.m3u8
 https://migu.yang-1989.xyz/sh/qd4n6s.m3u8
 #EXTINF:-1 tvg-id="魔都眼" tvg-name="魔都眼" tvg-logo="https://iptv.yang-1989.xyz/logo/魔都眼.webp" group-title="•中國「Relay」",魔都眼「官方」
 https://migu.yang-1989.xyz/sh/dk6eu7.m3u8
-#EXTINF:-1 tvg-id="雷霆881" tvg-name="雷霆881" tvg-logo="https://iptv.yang-1989.xyz/logo/雷霆881.webp" group-title="•香港「Relay」",雷霆881「電台」
-https://iptv.yang-1989.xyz/hkg/t2k3km.m3u8
-#EXTINF:-1 tvg-id="叱咤903" tvg-name="叱咤903" tvg-logo="https://iptv.yang-1989.xyz/logo/叱咤903.webp" group-title="•香港「Relay」",叱咤903「電台」
-https://iptv.yang-1989.xyz/hkg/863m56.m3u8
 #EXTINF:-1 tvg-id="AM864" tvg-name="AM864" tvg-logo="https://iptv.yang-1989.xyz/logo/AM864.webp" group-title="•香港「Relay」",AM864「電台」
-https://iptv.yang-1989.xyz/hkg/aqdhyb.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",翡翠台「24小时回看」
+https://iptv.yang-1989.xyz/phoenix/aqdhyb.m3u8
+#EXTINF:-1 tvg-id="叱咤903" tvg-name="叱咤903" tvg-logo="https://iptv.yang-1989.xyz/logo/叱咤903.webp" group-title="•香港「Relay」",叱咤903「電台」
+https://iptv.yang-1989.xyz/phoenix/863m56.m3u8
+#EXTINF:-1 tvg-id="雷霆881" tvg-name="雷霆881" tvg-logo="https://iptv.yang-1989.xyz/logo/雷霆881.webp" group-title="•香港「Relay」",雷霆881「電台」
+https://iptv.yang-1989.xyz/phoenix/t2k3km.m3u8
+#EXTINF:-1 tvg-id="凤凰中文台" tvg-name="凤凰中文台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰中文台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${start}-${end}" http-user-agent="okhttp/3.8",鳳凰衛視·中文「72小时回看」
+#EXTVLCOPT:http-user-agent=okhttp/3.8
+https://iptv.yang-1989.xyz/phoenix/nzdzf6.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯台" tvg-name="凤凰资讯台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰资讯台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${start}-${end}" http-user-agent="okhttp/3.8",鳳凰衛視·資訊「72小时回看」
+#EXTVLCOPT:http-user-agent=okhttp/3.8
+https://iptv.yang-1989.xyz/phoenix/6qf35p.m3u8
+#EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="3" catchup-source="?playseek=${start}-${end}" http-user-agent="okhttp/3.8",鳳凰衛視·香港「72小时回看」
+#EXTVLCOPT:http-user-agent=okhttp/3.8
+https://iptv.yang-1989.xyz/phoenix/vn7z4j.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv.yang-1989.xyz/logo/翡翠台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="?playseek=${start}-${end}",翡翠台「24小时回看」
 https://iptv.yang-1989.xyz/hk/cdgg6j.m3u8
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/無綫新聞台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",無綫新聞台「3小时回看」
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://iptv.yang-1989.xyz/logo/無綫新聞台.webp" group-title="•香港「Relay」" catchup="append" catchup-days="1" catchup-source="?playseek=${start}-${end}",無綫新聞台「3小时回看」
 https://iptv.yang-1989.xyz/hk/fke66g.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://iptv.yang-1989.xyz/logo/明珠台.webp" group-title="•香港「Relay」",明珠台「Relay」
 https://iptv.yang-1989.xyz/hk/ttxpq3.m3u8
