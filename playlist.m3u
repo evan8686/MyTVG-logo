@@ -6,6 +6,8 @@
 https://epg.yang-1989.xyz/v/302.mp4
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.yang-1989.xyz/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2026-8-21 #佛系維護...
 https://epg.yang-1989.xyz/v/301.mp4
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://iptv.yang-1989.xyz/logo/CNN.webp" group-title="•測試「Relay」",CNN「AI字幕」
+https://migu.yang-1989.xyz/test/ycpb4j.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV1.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV 1 综合「Relay」
 https://migu.yang-1989.xyz/ysp/bb4ttp.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://iptv.yang-1989.xyz/logo/CCTV2.webp" group-title="•中國「Relay」" catchup="append" catchup-days="7" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV 2 财经「Relay」
@@ -315,8 +317,6 @@ https://cdn.qd.je/163189/fhzw
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 tvg-id="凤凰香港台" tvg-name="凤凰香港台" tvg-logo="https://iptv.yang-1989.xyz/logo/凤凰香港台.webp" group-title="•港澳台「Juli」",凤凰香港台
 https://cdn.qd.je/163189/fhhk
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20TV.webp" group-title="•港澳台「Juli」",HOY TV
-https://cdn.qd.je/163189/hoy
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20TV.webp" group-title="•港澳台「Juli」",HOY TV
 https://cdn.qd.je/163189/hoy2
 #EXTINF:-1 tvg-id="HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://iptv.yang-1989.xyz/logo/HOY%20資訊台.webp" group-title="•港澳台「Juli」",HOY 資訊台
