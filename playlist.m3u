@@ -6,7 +6,7 @@
 https://epg.yang-1989.xyz/v/302.mp4
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.yang-1989.xyz/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2026-8-21 #佛系維護...
 https://epg.yang-1989.xyz/v/301.mp4
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://iptv.yang-1989.xyz/logo/CNN.webp" group-title="•測試「Relay」",CNN「AI字幕」
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://iptv.yang-1989.xyz/logo/CNN.webp" group-title="•測試「Relay」",CNN「待修复」
 https://migu.yang-1989.xyz/test/uzv65d.m3u8
 #EXTINF:-1 tvg-id="CNN International" tvg-name="CNN International" tvg-logo="https://iptv.yang-1989.xyz/logo/CNN.webp" group-title="•測試「Relay」",CNN International「AI字幕」
 https://migu.yang-1989.xyz/test/yz2awm.m3u8
